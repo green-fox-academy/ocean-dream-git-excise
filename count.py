@@ -1,2 +1,2 @@
-def count(month, year):
-    print(month, year)
+def count(month):
+    print(f"Counting the countless {month}")
