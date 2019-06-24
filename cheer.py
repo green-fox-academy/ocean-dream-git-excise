@@ -1,1 +1,1 @@
-print("Halo!  The Ocean Dream!")
+print("你好! 海洋梦幻!")
