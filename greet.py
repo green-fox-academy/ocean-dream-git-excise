@@ -1,3 +1,3 @@
-def greet():
-  print('Greetings')
+def greet(input):
+  print(f'Greetings fot {input}')
 
