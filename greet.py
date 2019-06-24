@@ -1,3 +1,2 @@
 def greet():
-  print('Greetings')
-
+  print('Greetings', 'claire', 'sept')
