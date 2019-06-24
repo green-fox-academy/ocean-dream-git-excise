@@ -1,1 +1,3 @@
-print("你好! 海洋梦幻!")
+
+def print_sth(name):
+    print(f"你好! {name}")
