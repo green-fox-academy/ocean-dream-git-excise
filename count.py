@@ -1,2 +1,2 @@
-def count(month):
-    print(month)
+def count(month, year):
+    print(month, year)
