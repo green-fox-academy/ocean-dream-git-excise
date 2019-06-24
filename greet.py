@@ -1,1 +1,3 @@
-print('Claire Liu')
+
+def greet(name):
+  print('Hello', name)
