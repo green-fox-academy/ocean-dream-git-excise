@@ -1,1 +1,2 @@
-print("Halo!  The Ocean Dream!")
+def print_sth(name):
+    print(f"Halo!  {name}!")
